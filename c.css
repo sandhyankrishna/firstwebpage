@@ -6,8 +6,9 @@
   background-position: center;
 }
 h1  { color: orange; }
-h2  { color: green; }
+h2  { color: red; }
 a { color:red; }
+
 header { width: 300px; }
 .container {
   display: flex;
@@ -16,8 +17,8 @@ header { width: 300px; }
   flex-wrap: wrap;
 }
 .container .img_box {
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  width: 200px;
   display: flex;
   align-items: center;
   justify-content: center;

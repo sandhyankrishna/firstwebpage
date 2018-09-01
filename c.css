@@ -1,0 +1,28 @@
+﻿body {
+
+   height: 600px;
+   padding: 30px;
+   margin: 20px auto;
+  background-size: cover;
+  background-position: center;
+}
+h1  {
+    color: orange;
+}
+h2  {
+   color: green;
+}
+
+
+header {
+width: 300px;
+ }
+a {
+ color:red;
+}
+footer{
+ background-color:blue;
+ text-align:center;
+padding:20px;
+margin:0px;
+}
